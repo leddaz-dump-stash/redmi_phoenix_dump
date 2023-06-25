@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.210908.001 V13.0.6.0.SGHCNXM release-keys
+- manufacturer: xiaomi
+- platform: sm6150
+- codename: phoenix
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.210908.001
+- incremental: V13.0.6.0.SGHCNXM
+- tags: release-keys
+- fingerprint: Redmi/phoenix/phoenix:12/RKQ1.210614.002/V13.0.6.0.SGHCNXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-12-SKQ1.210908.001-V13.0.6.0.SGHCNXM-release-keys
+- repo: redmi_phoenix_dump
